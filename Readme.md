@@ -17,6 +17,7 @@ app.get('/', function (req, res) {
 app.listen(3000)
 ```
 
+# Motilal Nehru National Institute of Technology
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
